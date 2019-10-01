@@ -1,0 +1,39 @@
+You are in a dark forest and you can hear something coming to you from your right side.
+Actions you can take are:
+a.run to the opposite direction,b.stay,c.shout,d.save game
+The sound is getting closer...
+Actions you can take are:
+a.keep running,b.stay,c.scream out,d.save game
+You have been crashed by something into two parts
+Actions you can take are:
+you,are,dead,press any botton to leave game
+The sound stopped
+Actions you can take are:
+a.look back,b.close your eyes,c.scream out,d.save game
+You saw that thing
+Actions you can take are:
+you,are,dead,press any botton to leave game
+it was a dream
+Actions you can take are:
+you,are,safe,press any botton to leave game
+who knows?
+Actions you can take are:
+you,are,safe,press any botton to leave game
+the sound run past you by your side
+Actions you can take are:
+you,are,safe,press any botton to leave game
+the sound run past you by your side
+Actions you can take are:
+you,are,safe,press any botton to leave game
+The sound stopped
+Actions you can take are:
+a.look back,b.close your eyes,c.scream out,d.save game
+You saw that thing
+Actions you can take are:
+you,are,dead,press any botton to leave game
+it was a dream
+Actions you can take are:
+you,are,safe,press any botton to leave game
+who knows?
+Actions you can take are:
+you,are,safe,press any botton to leave game
